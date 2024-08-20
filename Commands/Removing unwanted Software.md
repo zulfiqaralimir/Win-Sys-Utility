@@ -11,4 +11,4 @@ iwr -useb https://git.io/debloat | iex
 - **`| iex`**: This pipes (`|`) the downloaded script directly into the `iex` (Invoke-Expression) command, which executes the script.
 
 ### Usage:
-This command is typically used to download and execute a script that "debloats" a Windows system, removing unnecessary or unwanted software and settings to streamline the system. This is often done to optimize performance and free up resources.
+This command is typically used to download and execute a script that "debloats" a Windows system, **removing unnecessary or unwanted software and settings to streamline the system**. This is often done to **optimize performance** and free up resources.
